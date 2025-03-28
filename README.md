@@ -1,0 +1,1 @@
+# gerenciamento_IA.py
