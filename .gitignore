@@ -1,0 +1,23 @@
+# Ignorar todos os arquivos e pastas exceto os do site
+*
+!app.py
+!templates/
+!static/
+!.gitignore
+
+# Ignorar arquivos temporários
+.tmp.*
+
+# Ignorar arquivos de sistema
+desktop.ini
+
+# Ignorar arquivos específicos
+~$*
+
+# Ignorar arquivos de ambiente virtual
+venv/
+.env
+
+# Ignorar arquivos de cache Python
+__pycache__/
+*.py[cod]
